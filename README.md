@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [WeParcel](weparcel.in)
-
 - 👨‍💻 All of my projects are available at [abhishekvish.me](abhishekvish.me)
 
 - 📫 How to reach me **rudrabhishek931@gmail.com**
